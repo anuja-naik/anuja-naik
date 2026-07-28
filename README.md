@@ -91,19 +91,19 @@ from applicant income, credit score, DTI ratio, and collateral data.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshtakalkar037-boop&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuja-naik&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshtakalkar037-boop&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuja-naik&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshtakalkar037-boop&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anuja-naik&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshtakalkar037-boop&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuja-naik&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
