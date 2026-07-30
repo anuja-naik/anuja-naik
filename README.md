@@ -177,6 +177,11 @@ Node.js             █████████████░░░░░░░
 ✅ Internship
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/anuja-naik/anuja-naik/output/github-contribution-grid-snake.svg">
+</p>
 
 # 🌐 Connect With Me
 
