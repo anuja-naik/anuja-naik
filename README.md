@@ -1,20 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b132b,50:1c2541,100:3a506b&height=220&section=header&text=ANUJA%20NAIK&fontColor=5bc0be&fontSize=62&fontAlignY=42&desc=B.Tech%20E%26TC%20%C2%B7%20PICT%20Pune&descAlignY=66&descSize=18&descColor=ffffff" alt="Anuja Naik" width="100%"/>
+<h1>Signals in. Intelligence out.</h1>
+
+<h3>Anuja Naik &nbsp;·&nbsp; B.Tech E&amp;TC @ PICT Pune &nbsp;·&nbsp; AI/ML &amp; Web Developer</h3>
 
 <a href="https://github.com/anuja-naik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1600&color=5BC0BE&center=true&vCenter=true&width=760&height=40&lines=Electronics-trained.+ML-driven.+Ships+live+apps.;1st+Place+%E2%80%94+UpXGen+Hackathon+2024;5+projects+%C2%B7+4+deployed+live;Open+to+Data+Science+%C2%B7+Analytics+%C2%B7+Full+Stack+internships" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1800&color=5BC0BE&center=true&vCenter=true&width=700&height=36&lines=I+build+ML+projects+and+put+them+online;Hackathon+winner+%C2%B7+1st+Place+%C2%B7+2026;5+projects+%C2%B7+4+live+on+the+internet;Open+to+Data+Science+%C2%B7+Analytics+%C2%B7+Full+Stack" alt="Typing intro"/>
 </a>
 
-<br/>
+<br/><br/>
+
+![Hackathon](https://img.shields.io/badge/Hackathon_2026-1st_Place-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+![Diploma](https://img.shields.io/badge/Diploma-Topper_96.82%25-5bc0be?style=for-the-badge)
+![SGPA](https://img.shields.io/badge/B.Tech_SGPA-9.05-1c2541?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuja--naik06-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuja-naik06)
 [![Email](https://img.shields.io/badge/Email-naikanuja80@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikanuja80@gmail.com)
-[![Live Projects](https://img.shields.io/badge/Projects-4_Live_Demos-5bc0be?style=for-the-badge&logo=rocket&logoColor=white)](#-case-files--featured-projects)
 
 </div>
 
-<br/>
+---
+
+## 👋 Who I Am
+
+I'm a third-year engineering student at **PICT Pune**, studying Electronics & Telecommunication. I started with a diploma, finished as the **class topper**, and then joined PICT's degree program.
+
+I build **machine learning projects from start to finish**: collect and clean data, train models, compare them, and put the best one online so anyone can try it. I also build websites.
+
+**I'm looking for:** internships in **Data Science, Analytics, or Full Stack Development**.
+
+---
 
 ## ⚡ At a Glance
 
@@ -22,27 +37,27 @@
 
 <table>
   <tr align="center">
-    <td width="20%"><h2>🥇 1st</h2><sub>UpXGen Hackathon<br/>PVGCOE Nashik, 2024</sub></td>
-    <td width="20%"><h2>5</h2><sub>End-to-end<br/>projects built</sub></td>
-    <td width="20%"><h2>4</h2><sub>Deployed<br/>& publicly live</sub></td>
-    <td width="20%"><h2>9.05</h2><sub>SGPA<br/>B.Tech, PICT Pune</sub></td>
-    <td width="20%"><h2>96.82%</h2><sub>Diploma Topper<br/>CWIT Pune</sub></td>
+    <td width="20%"><h2>🥇 1st</h2><sub>Hackathon<br/>winner · 2026</sub></td>
+    <td width="20%"><h2>5</h2><sub>Projects built<br/>end to end</sub></td>
+    <td width="20%"><h2>4</h2><sub>Live<br/>deployments</sub></td>
+    <td width="20%"><h2>9.05</h2><sub>SGPA<br/>PICT Pune</sub></td>
+    <td width="20%"><h2>96.82%</h2><sub>Diploma<br/>Topper</sub></td>
   </tr>
 </table>
 
 </div>
 
-<br/>
+---
 
-## 🧭 How I Build
+## 🧭 How I Work
 
-I started in electronics, so I think in terms of **signals, systems and pipelines**. Every project below follows the same path: raw data, then a model, then something people can actually open and use.
+Every project follows the same four steps:
 
 ```mermaid
 flowchart LR
-    A["<b>Electronics foundation</b><br/>Diploma Topper<br/>B.Tech E&TC, PICT"] --> B["<b>Data & signals</b><br/>ESP32 + WiFi CSI<br/>Tabular & customer data"]
-    B --> C["<b>Models</b><br/>Random Forest · Autoencoder<br/>K-Means · Logistic Regression"]
-    C --> D["<b>Shipped</b><br/>Streamlit · Render<br/>GitHub Pages"]
+    A["<b>1. Get data</b><br/>Sensor signals<br/>Customer and loan data"] --> B["<b>2. Train models</b><br/>Try several<br/>and compare"]
+    B --> C["<b>3. Pick the best</b><br/>Choose by<br/>accuracy / score"]
+    C --> D["<b>4. Put it online</b><br/>Streamlit, Render<br/>GitHub Pages"]
 
     style A fill:#0b132b,stroke:#5bc0be,color:#ffffff
     style B fill:#1c2541,stroke:#5bc0be,color:#ffffff
@@ -50,17 +65,7 @@ flowchart LR
     style D fill:#3a506b,stroke:#5bc0be,color:#ffffff
 ```
 
-<br/>
-
-## 👩‍💻 About
-
-I'm a third-year B.Tech student at **PICT Pune**, in Electronics & Telecommunication. I came in through the Diploma-to-Degree pathway after topping my diploma class.
-
-I'm drawn to problems where **ML meets something physical or practical**: sensing, anomaly detection, prediction, segmentation. My habit is to compare several models, pick the one the data supports, and deploy it rather than leave it in a notebook.
-
-**Looking for:** internships in Data Science, Analytics, or Full Stack Development.
-
-<br/>
+---
 
 ## 🧰 Tech Stack
 
@@ -90,51 +95,44 @@ I'm drawn to problems where **ML meets something physical or practical**: sensin
 
 </div>
 
-<br/>
+---
 
-## 📂 Case Files — Featured Projects
+## 📂 Projects
 
-| # | Project | Domain | Core Technique | Status |
-|:-:|---|---|---|:-:|
-| 01 | **Digitwin.AI** | Predictive maintenance | Autoencoder anomaly detection | 🥇 Hackathon winner · [Live](https://digitwin58.onrender.com/) |
-| 02 | **WiFi Human Sensing** | Embedded ML / IoT | CSI signals + Random Forest | [Repo](https://github.com/anuja-naik/Human-Detection-Using-WiFi) |
-| 03 | **CreditWise** | Finance ML | Logistic Regression (87.5%) | [Live](https://creditwise-loan-prediction-system-mgd3savehoyqda7kf7rpub.streamlit.app/) |
-| 04 | **SmartCart** | Unsupervised ML | PCA + K-Means | [Live](https://shareappio-ktudjssrkceywppsmev2ck.streamlit.app/) |
-| 05 | **D2D Guidance** | Web / community | HTML · CSS · JS | [Live](https://anuja-naik.github.io/Bridging-The-Next-Step-D2D-Guidance/) |
+| # | Project | What it does (in plain words) | Links |
+|:-:|---|---|---|
+| 01 | **Digitwin.AI** 🥇 | Warns when a machine starts behaving abnormally, before it breaks | [Live](https://digitwin58.onrender.com/) · [Repo](https://github.com/anuja-naik/AI-Predictive-Maintenance-Digital-Twin) |
+| 02 | **WiFi Human Detection** | Detects people from WiFi signals, with no camera | [Repo](https://github.com/anuja-naik/Human-Detection-Using-WiFi) |
+| 03 | **CreditWise** | Predicts whether a loan will be approved | [Live](https://creditwise-loan-prediction-system-mgd3savehoyqda7kf7rpub.streamlit.app/) · [Repo](https://github.com/anuja-naik/CreditWise-Loan-Prediction-System) |
+| 04 | **SmartCart** | Groups shop customers by how they spend | [Live](https://shareappio-ktudjssrkceywppsmev2ck.streamlit.app/) · [Repo](https://github.com/anuja-naik/SmartCart-Customer-Segmentation-System) |
+| 05 | **D2D Guidance** | A website that helps diploma students move to degree engineering | [Live](https://anuja-naik.github.io/Bridging-The-Next-Step-D2D-Guidance/) · [Repo](https://github.com/anuja-naik/Bridging-The-Next-Step-D2D-Guidance) |
 
 <details open>
-<summary><b>🥇 01 · Digitwin.AI — AI Predictive Maintenance System</b> &nbsp;·&nbsp; <i>1st place, UpXGen Hackathon</i></summary>
+<summary><b>🥇 01 · Digitwin.AI</b> &nbsp;·&nbsp; <i>1st place at the hackathon</i></summary>
 <br/>
 
-- **Problem:** equipment failures are expensive when they're only noticed after they happen.
-- **What the team built:** an AI-based predictive maintenance system using **Digital Twin** concepts and an **Autoencoder** for anomaly detection, with a real-time monitoring dashboard.
-- **My part:** the **Flask backend and REST API integration** that connected the model output to the frontend dashboard.
+- **The problem:** machines are expensive to repair after they fail. It's cheaper to catch the problem early.
+- **The solution:** a team project that builds a "digital twin" of a machine and uses an **Autoencoder** (a type of neural network) to spot unusual behaviour. A dashboard shows the results.
+- **My part:** the **Flask backend and APIs** that connect the ML model to the dashboard.
 - **Stack:** `Python` `Flask` `REST APIs` `Autoencoder` `Digital Twin`
-- **Result:** 1st place at UpXGen Hackathon, PVGCOE Nashik, against teams from across Maharashtra.
-
-[🔗 Live Demo](https://digitwin58.onrender.com/) &nbsp;·&nbsp; [📁 Repository](https://github.com/anuja-naik/AI-Predictive-Maintenance-Digital-Twin)
 
 </details>
 
 <details>
-<summary><b>📡 02 · Human Detection Using WiFi Signals</b> &nbsp;·&nbsp; <i>ESP32 + ML, no camera needed</i></summary>
+<summary><b>📡 02 · WiFi Human Detection</b> &nbsp;·&nbsp; <i>ESP32 + machine learning</i></summary>
 <br/>
 
-- **Problem:** sensing people usually needs cameras or wearables, which brings privacy and cost issues.
-- **What I built:** a sensing system that reads **WiFi Channel State Information (CSI)** through an **ESP32** and classifies human activity (walking, sitting, standing) with a **Random Forest** model.
-- **Highlights:** feature extraction from wireless signals, and an ML prediction pipeline for an embedded setting.
+- **The problem:** detecting people normally needs cameras, which raises privacy concerns.
+- **The solution:** an **ESP32** chip reads WiFi signal data (CSI). A **Random Forest** model learns the signal patterns to recognise human activity.
 - **Stack:** `Python` `ESP32` `Random Forest` `Signal Processing`
 
-[📁 Repository](https://github.com/anuja-naik/Human-Detection-Using-WiFi)
-
 </details>
 
 <details>
-<summary><b>💳 03 · CreditWise — Loan Approval Prediction</b> &nbsp;·&nbsp; <i>3 models compared, best at 87.5%</i></summary>
+<summary><b>💳 03 · CreditWise</b> &nbsp;·&nbsp; <i>3 models compared, best at 87.5%</i></summary>
 <br/>
 
-- **What I built:** an end-to-end pipeline covering EDA, preprocessing, and feature engineering (including engineered quadratic terms), deployed as a Streamlit app for real-time predictions.
-- **Model comparison:**
+- **The solution:** a full pipeline (data analysis, cleaning, feature engineering, model training), then a live Streamlit app for instant predictions.
 
 | Model | Accuracy |
 |---|:-:|
@@ -144,77 +142,69 @@ I'm drawn to problems where **ML meets something physical or practical**: sensin
 
 - **Stack:** `Python` `Scikit-learn` `Streamlit`
 
-[🔗 Live Demo](https://creditwise-loan-prediction-system-mgd3savehoyqda7kf7rpub.streamlit.app/) &nbsp;·&nbsp; [📁 Repository](https://github.com/anuja-naik/CreditWise-Loan-Prediction-System)
-
 </details>
 
 <details>
-<summary><b>🛒 04 · SmartCart — Customer Segmentation System</b> &nbsp;·&nbsp; <i>Unsupervised learning, deployed</i></summary>
+<summary><b>🛒 04 · SmartCart</b> &nbsp;·&nbsp; <i>Customer groups with unsupervised ML</i></summary>
 <br/>
 
-- **What I built:** feature engineering from raw customer data (age, tenure, total spending, household composition), then one-hot encoding, scaling and **PCA**.
-- **How I chose the model:** the elbow method and silhouette scores set the cluster count. I compared **K-Means vs Agglomerative Clustering** and chose K-Means for its higher silhouette score.
-- **Output:** customer segments profiled by income and spending, served through a Streamlit app.
+- **The solution:** built useful features from raw customer data (age, how long they've been a customer, total spending, household), then used **PCA** and **clustering** to form groups.
+- **Model choice:** compared K-Means and Agglomerative Clustering and picked **K-Means** because it scored higher.
 - **Stack:** `Python` `Scikit-learn` `PCA` `K-Means` `Streamlit`
 
-[🔗 Live Demo](https://shareappio-ktudjssrkceywppsmev2ck.streamlit.app/) &nbsp;·&nbsp; [📁 Repository](https://github.com/anuja-naik/SmartCart-Customer-Segmentation-System)
-
 </details>
 
 <details>
-<summary><b>🎓 05 · D2D Guidance Website</b> &nbsp;·&nbsp; <i>Built for diploma-to-degree students</i></summary>
+<summary><b>🎓 05 · D2D Guidance Website</b> &nbsp;·&nbsp; <i>Built for students like me</i></summary>
 <br/>
 
-- **Problem:** Diploma-to-Degree students had no single place for guidance resources.
-- **What I built:** a static website for the *Bridging the Next Step* community engagement project, frontend written from scratch and still live on GitHub Pages.
+- **The problem:** diploma students had no single place to find guidance for moving to a degree.
+- **The solution:** a website built from scratch for the *Bridging the Next Step* project, still live on GitHub Pages.
 - **Stack:** `HTML` `CSS` `JavaScript` `GitHub Pages`
-
-[🔗 Live Site](https://anuja-naik.github.io/Bridging-The-Next-Step-D2D-Guidance/) &nbsp;·&nbsp; [📁 Repository](https://github.com/anuja-naik/Bridging-The-Next-Step-D2D-Guidance)
 
 </details>
 
-<br/>
+---
 
 ## 🏆 Achievements
 
 | | Achievement | Detail |
 |:-:|---|---|
-| 🥇 | **1st Place — UpXGen Hackathon (2024)** | PVGCOE Nashik · Digitwin.AI |
+| 🥇 | **1st Place, Hackathon (2026)** | Digitwin.AI, competing against teams from across Maharashtra |
 | 🎓 | **Diploma Topper** | 96.82 percentile · Cusrow Wadia Institute of Technology |
 | 📈 | **SGPA 9.05** | B.Tech, PICT Pune |
 | 🌐 | **4 live deployments** | Streamlit ×2 · Render · GitHub Pages |
-| 🔬 | **Model comparison in practice** | 3 classifiers on CreditWise · 2 clustering methods on SmartCart |
 
-<br/>
+---
 
 ## 🛤️ Journey
 
-| When | Milestone |
+| When | What happened |
 |---|---|
-| **2022 – 2025** | **Diploma, Electronics & Telecommunication** · Cusrow Wadia Institute of Technology · 96.82 percentile · Diploma Topper |
-| **2024** | **Technical Intern**, Tata Advanced Systems Limited: worked in a defense-sector engineering environment, with exposure to technical documentation, system operations and team workflows |
-| **2024** | **1st place**, UpXGen Hackathon, PVGCOE Nashik |
-| **2025 – 2028** | **B.Tech, Electronics & Telecommunication** · PICT Pune (Diploma-to-Degree) · SGPA 9.05 |
+| **2022 – 2025** | **Diploma, Electronics & Telecommunication**, Cusrow Wadia Institute of Technology. Diploma Topper, 96.82 percentile. |
+| **2024** | **Technical Intern**, Tata Advanced Systems Limited. Worked in a defense-sector engineering environment and learned how real teams, documentation and systems operate. |
+| **2025 – 2028** | **B.Tech, Electronics & Telecommunication**, PICT Pune (Diploma-to-Degree). SGPA 9.05. |
+| **2026** | **1st place** at the hackathon with Digitwin.AI. |
 
-<br/>
+---
 
-## 🎯 Skill Radar
+## 🎯 Skills
 
-| ✅ Skilled | 📚 Learning | 🔭 Exploring Next |
+| ✅ Strong at | 📚 Learning now | 🔭 Exploring next |
 |---|---|---|
 | Python · Scikit-learn | Deep learning with PyTorch | ML on embedded / IoT hardware |
 | HTML · CSS · JavaScript | Full-stack development | Production-style ML deployment |
 | SQL · Java (OOP) | Data analytics | `[Add your own]` |
-| Streamlit / Render / Pages deployment | | |
+| Deploying apps online | | |
 
-<br/>
+---
 
 ## 🧩 Problem Solving
 
 Data Structures & Algorithms in **Java** and **C++**, plus object-oriented programming in Java.
 Profile: `[Add LeetCode / GeeksforGeeks link if you want to show it]`
 
-<br/>
+---
 
 ## 📊 GitHub Activity
 
@@ -225,7 +215,7 @@ Profile: `[Add LeetCode / GeeksforGeeks link if you want to show it]`
 
 </div>
 
-<br/>
+---
 
 ## 🤝 Let's Connect
 
@@ -235,7 +225,5 @@ Hiring for **Data Science, Analytics or Full Stack** internships? I'd like to he
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuja-naik06)
 [![Email](https://img.shields.io/badge/Email-Write_to_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naikanuja80@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:3a506b,50:1c2541,100:0b132b&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
